@@ -1,0 +1,21 @@
+.footer{
+    background-color: black;
+    text-align: center;
+    padding : 60px
+}
+
+.footer a {
+font-size: 30px;
+color:rgb(94, 241, 94);
+margin: 0 5px;
+
+}
+
+
+.footer p {
+    color: #616C6A;
+}
+
+.footer .fas{
+    color:#BF0F12;
+}
